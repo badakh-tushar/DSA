@@ -1,0 +1,15 @@
+D:\DSA\DSA\DSA_C#_LoveBabbar\bin\Debug\net8.0\DSA_C#_LoveBabbar.exe
+D:\DSA\DSA\DSA_C#_LoveBabbar\bin\Debug\net8.0\DSA_C#_LoveBabbar.deps.json
+D:\DSA\DSA\DSA_C#_LoveBabbar\bin\Debug\net8.0\DSA_C#_LoveBabbar.runtimeconfig.json
+D:\DSA\DSA\DSA_C#_LoveBabbar\bin\Debug\net8.0\DSA_C#_LoveBabbar.dll
+D:\DSA\DSA\DSA_C#_LoveBabbar\bin\Debug\net8.0\DSA_C#_LoveBabbar.pdb
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.AssemblyInfoInputs.cache
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.AssemblyInfo.cs
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.csproj.CoreCompileInputs.cache
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.sourcelink.json
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.dll
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\refint\DSA_C#_LoveBabbar.dll
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.pdb
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\DSA_C#_LoveBabbar.genruntimeconfig.cache
+D:\DSA\DSA\DSA_C#_LoveBabbar\obj\Debug\net8.0\ref\DSA_C#_LoveBabbar.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DSA_C#_LoveBabbar/1.0.0": {
+        "runtime": {
+          "DSA_C#_LoveBabbar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSA_C#_LoveBabbar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
